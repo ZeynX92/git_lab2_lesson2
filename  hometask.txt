@@ -1,1 +1,15 @@
 Они ничем не отличаются
+
+12 commits:
+    - __init-hometask__
+    - Merge remote-tracking branch 'origin/boots_buttons'
+    - Merge remote-tracking branch 'origin/hat'
+    - __init__
+    - Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    - Merge remote-tracking branch 'origin/boots' into boots_buttons
+    - fix readme
+    - dots
+    - README added
+    - boots
+    - heat added
+    - init
